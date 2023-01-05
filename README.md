@@ -17,7 +17,7 @@
 - 📩 You can reach out to me via **[Email](mailto:isalmanmaqsood@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
-<h4 align="left">💻 Languages and Tools:</h4>
+<h4 align="center">💻 Languages and Tools:</h4>
 
 <table align="center"> 
 
@@ -67,6 +67,8 @@
 
 <br />
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanmaqsoodlive&show_icons=true&hide=issues&locale=en&count_private=true&theme=tokyonight&border_radius=20" alt="salmanmaqsoodlive" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmaqsoodlive&show_icons=true&locale=en&count_private=true&theme=tokyonight&border_radius=20" alt="salmanmaqsoodlive" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanmaqsoodlive&show_icons=true&hide=issues&locale=en&count_private=true&theme=tokyonight&border_radius=20" alt="salmanmaqsoodlive" /></p>
+
