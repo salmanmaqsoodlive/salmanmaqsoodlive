@@ -10,7 +10,7 @@
 
 <br/>
 
-- 👨‍💻 I am currently working as a **Software Engineer.
+- 👨‍💻 I am currently working as a **Software Engineer**.
 - 🌱 I'm currently learning **Amazon Web Services**.
 - 💬 I love to talk about **Ideas**.
 - 💎 I am interested in learning about **Cloud Computing**.
