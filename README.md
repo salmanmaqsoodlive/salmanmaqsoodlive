@@ -17,9 +17,9 @@
 - 📩 You can reach out to me via **[Email](mailto:isalmanmaqsood@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
-<h4 align="center">💻 Languages and Tools:</h4>
+<h4 align="left">💻 Languages and Tools:</h4>
 
-<table align="center"> 
+<table align="left"> 
 
  <tr>
 <td align="center" width="96">
